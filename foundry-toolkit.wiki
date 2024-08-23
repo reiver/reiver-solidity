@@ -1,0 +1,20 @@
+wiki/1
+
+§ Foundry Toolkit
+
+⸺ by Charles Iliya Krempeaux
+
+The **Foundry Toolkit** is a set of tools for the [[solidity-programming-language]].
+
+The tools in the **Foundry Toolkit** are:
+
+• ``anvil``
+• ``cast``
+• ``chisel``
+• ``forge``
+
+§§ New Project
+
+To create a new project run:
+
+``forge init``
