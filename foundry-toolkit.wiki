@@ -13,7 +13,7 @@ The tools in the **Foundry Toolkit** are:
 • ``chisel``
 • ``forge``
 
-§§ New Project
+§§ Create New Project
 
 To create a new project run:
 
